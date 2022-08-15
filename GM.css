@@ -14,22 +14,19 @@ color: rgb(11, 10, 10);
 {
     list-style: none;
 }
-hr{
+hr 
+{
    background-color: black;
-  }
-  .fontsize
-  {
+}
+.fontsize
+{
     font-size: 10px;
-  }
+}
 @media (max-width:321px) {
     .imgr{
         width: 65%;
         height: auto;
     }
-}
-.nonul
-{
-    color: black;
 }
 
 
